@@ -3,7 +3,7 @@ name = "legislint"
 version = "0.1.0"
 description = "Deterministic findings on congressional bill XML: cross-references, designators, dates, DTD conformance."
 readme = "README.md"
-license = "Apache-2.0"
+license = "MIT"
 requires-python = ">=3.11"
 dependencies = [
     "lxml>=5.0",
